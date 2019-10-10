@@ -105,6 +105,10 @@ p.para {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
+/* Hover Prev and next button */
+.prev:hover, .next:hover {
+  color: rgb(75, 66, 56);
+}
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
